@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Alexis Simancas
 #### I am fresh out of college looking for a job as a front end
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: JS / HTML 5 / CSS / C / C++ / PHP / VRML. / MySQL / WordPress
 
